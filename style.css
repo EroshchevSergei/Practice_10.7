@@ -1,0 +1,26 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+    background-color: rgba(248, 250, 225, 0.904);
+}
+
+.col-4{
+    padding:0px;
+    
+}
+
+.card-body{
+    background-color: rgba(32, 241, 42, 0.301);
+    padding-bottom: 5px;
+    
+}
+
+.col-12{
+    padding-top:5px;
+    padding-bottom: 5px;
+}
